@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
 	string word[1000][2];
+
 	int word_N = 0;
 	int word_Out;
 
