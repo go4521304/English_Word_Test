@@ -1,5 +1,20 @@
-suppose	가정하다
-bury	묻다
-explain	설명하다
-amuse	즐겁게 하다
-leap	뛰다1
+data	자료
+shadow	그림자
+capital	수도
+trip	여행
+course	과정
+neighbor	이웃 사람
+stair	계단
+musician	음악가
+ditch	도랑
+diary	일기
+servant	하인
+soldier	군인
+dawn	새벽
+squirrel	다람쥐
+crew	승무원
+taste	맛
+stomach	위
+sign	신호
+tomb	무덤
+hunger	굶주림

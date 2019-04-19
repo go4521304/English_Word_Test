@@ -35,7 +35,8 @@ int main()
 
 	cin >> word_Out;
 
-	default_random_engine dre;
+	random_device rd;
+	default_random_engine dre(rd());
 	uniform_int_distribution<int> range(0, word_Out - 1);
 
 	int i;
